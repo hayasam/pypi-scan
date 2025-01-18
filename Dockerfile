@@ -1,5 +1,5 @@
 # Import minimal python 3.8 official image
-FROM python:3.8
+FROM python:3.14.0a4
 
 # Set working directory
 WORKDIR /usr/src/app
